@@ -35,7 +35,7 @@
 //                                              ====== FUN BOT SCRIPT  ======
 
 
-var Omnibot = {};
+var Funbot = {};
 var ruleSkip = {};
 Funbot.misc = {};
 Funbot.settings = {};
